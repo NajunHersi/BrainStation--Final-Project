@@ -1,6 +1,6 @@
-# Student Performance Factors — Predictive Modeling
+# Predicting Student Performance Factors 
 
-A data science project exploring which factors most strongly influence student exam scores, using exploratory data analysis and linear regression modeling on the [Student Performance Factors dataset](https://www.kaggle.com/) by Muhammad Ahmad.
+We explore factors that most strongly influence student exam scores, using EDA and linear regression modeling on the [Student Performance Factors dataset](https://www.kaggle.com/) created by Muhammad Ahmad.
 
 ---
 
